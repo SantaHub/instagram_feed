@@ -1,0 +1,19 @@
+{
+  "name": "integram",
+  "version": "1.0.0",
+  "description": "integram popular image",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instegram"
+  ],
+  "author": "austin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "latest",
+    "express": "^4.13.4",
+    "instagram-node": "^0.5.8"
+  }
+}
